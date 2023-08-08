@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="PhoneTrack Nextcloud app 0.7.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <name>biguser-phone8</name>
+    <time>2023-07-26T13:20:25Z</time>
+  </metadata>
+  <trk>
+    <name>phone8</name>
+    <trkseg>
+      <trkpt lat="46.05204459547685" lon="14.510301959056514">
+        <ele>346</ele>
+        <time>2023-06-28T15:40:21Z</time>
+        <sat>0</sat>
+        <extensions>
+          <speed>1.0</speed>
+          <course>0.000</course>
+          <accuracy>48</accuracy>
+          <batterylevel>50</batterylevel>
+          <useragent>PhoneTrack/0.1.0</useragent>
+        </extensions>
+      </trkpt>
+      <trkpt lat="28.272595875798178" lon="-16.64257161875487">
+        <ele>107</ele>
+        <time>2023-07-25T12:09:36Z</time>
+        <sat>0</sat>
+        <extensions>
+          <speed>0.0</speed>
+          <course>0.000</course>
+          <accuracy>186</accuracy>
+          <batterylevel>67</batterylevel>
+          <useragent>PhoneTrack/0.1.0</useragent>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,51 @@
+{
+    "biguser": {
+        "phone8": [
+            {
+                "_type": "location",
+                "acc": 48,
+                "alt": 346,
+                "batt": 50,
+                "bs": 2,
+                "conn": "m",
+                "created_at": 1687967505,
+                "lat": 46.05204459547685,
+                "lon": 14.510301959056514,
+                "m": 1,
+                "t": "p",
+                "tid": "ow",
+                "topic": "owntracks/biguser/phone8",
+                "tst": 1687966821,
+                "vac": 246,
+                "vel": 3.6,
+                "_http": true,
+                "ghash": "u24mfs1",
+                "isorcv": "2023-06-28T15:40:21Z",
+                "isotst": "2023-06-28T15:40:21Z",
+                "disptst": "2023-06-28 15:40:21"
+            },
+            {
+                "_type": "location",
+                "acc": 186,
+                "alt": 107,
+                "batt": 67,
+                "bs": 1,
+                "conn": "w",
+                "created_at": 1690287265,
+                "lat": 28.272595875798178,
+                "lon": -16.64257161875487,
+                "m": 1,
+                "tid": "ow",
+                "topic": "owntracks/dcrystalj/6a",
+                "tst": 1690286976,
+                "vac": 194,
+                "vel": 0,
+                "_http": true,
+                "ghash": "esupem1",
+                "isorcv": "2023-07-25T12:09:36Z",
+                "isotst": "2023-07-25T12:09:36Z",
+                "disptst": "2023-07-25 12:09:36"
+            }
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+gpx==0.2.1
+gpxpy==1.5.0
+freezegun==1.2.2
+flake8==6.0.0
+flake8-isort==6.0.0
