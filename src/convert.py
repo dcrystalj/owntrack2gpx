@@ -46,9 +46,13 @@ def owntrack2gpx(input: dict) -> gpxpy.gpx.GPX:
     return gpx
 
 
-if __name__ == '__main__':
+def main():
     i = sys.stdin.read()
     i = i.replace("'", '"')
     j = json.loads(i)
     o = owntrack2gpx(j).to_xml()
     print(o)
+
+
+if __name__ == '__main__':
+    main()

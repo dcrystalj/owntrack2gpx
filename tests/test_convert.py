@@ -3,7 +3,7 @@ import unittest
 
 import freezegun
 
-from convert import owntrack2gpx
+from src import owntrack2gpx
 
 
 class OwnTrack2GPX(unittest.TestCase):
